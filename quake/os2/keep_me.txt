@@ -1,0 +1,10 @@
+
+ The volume label in drive C is OS2.
+ The Volume Serial Number is 2A9E:6414
+ Directory of C:\proj\quake\os2
+
+10-29-11  12:53a     <DIR>           0  .
+10-29-11  12:53a     <DIR>           0  ..
+10-29-11   1:19a         0           0  keep_me.txt
+         3 file(s)          0 bytes used
+                    151211520 bytes free

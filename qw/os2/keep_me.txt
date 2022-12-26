@@ -1,0 +1,10 @@
+
+ The volume label in drive C is OS2.
+ The Volume Serial Number is 2A9E:6414
+ Directory of C:\proj\qw2\os2
+
+10-29-11  12:02a     <DIR>           0  .
+10-29-11  12:02a     <DIR>           0  ..
+10-29-11  12:05a         0           0  keep_me.txt
+         3 file(s)          0 bytes used
+                    146639360 bytes free
